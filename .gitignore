@@ -1,0 +1,12 @@
+# Virtual environment
+/venv
+
+# Python cache
+__pycache__/
+*.pyc
+
+/app.py
+/llm_server.py
+/requirements.txt
+/static
+/templates
